@@ -3,6 +3,7 @@
 ## 📌 Project Description
 <img width="1918" height="947" alt="image" src="https://github.com/user-attachments/assets/9be3f168-05aa-460e-aa93-ed04d058fd1d" />
 
+<img width="1916" height="878" alt="image" src="https://github.com/user-attachments/assets/853813fd-7326-4507-8293-27c75b949745" />
 
 
 The Credit Scoring System is a decentralized smart contract built on Stellar's Soroban platform. It enables transparent, tamper-proof credit scoring for users based on their financial behavior and transaction history.
